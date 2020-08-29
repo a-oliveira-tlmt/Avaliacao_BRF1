@@ -1,3 +1,3 @@
-# Avaliacao_BRF1
+# Cálculo Fatorial em C#
 
-Código C# para avaliação da BRF1
+Código em C# - fatorial de um número
