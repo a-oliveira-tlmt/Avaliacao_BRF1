@@ -1,3 +1,3 @@
 # Cálculo Fatorial em C#
 
-Código em C# - fatorial de um número
+Código em C# - soma dos algarismos do fatorial de um número
